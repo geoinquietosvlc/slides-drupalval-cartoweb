@@ -1,0 +1,7 @@
+/*********************************************
+ * CUSTOM STYLES
+ *********************************************/
+
+.reveal .state-background{
+  background: #f7f3de url('paper.jpg') no-repeat center center;
+}
